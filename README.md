@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi%20there,%20I'm%20Juliana!&textBg=false&section=header&reversal=true&fontAlign=50&fontAlignY=40&animation=fadeIn)
+## About me!
 
 - 🔭 I'm currently taking undergraduate at University of Brasília in Electrical Engineering.
 - 👷‍♀️ Intern at Câmara dos Deputados (TV/Rádio Câmara).
