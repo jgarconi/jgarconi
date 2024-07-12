@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi%20there,%20I'm%20Juliana!&textBg=false&section=header&reversal=true&fontAlign=50&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,1,2,3,5,6,7,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,30&text=Hi%20there,%20I'm%20Juliana!&fontAlignY=40&reversal=true&animation=fadeIn)
 ## About me!
 
 - 🔭 I'm currently taking undergraduate at University of Brasília in Electrical Engineering.
